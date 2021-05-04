@@ -1,0 +1,26 @@
+baseURL = "https://rnshaw.com/"
+languageCode = "en-us"
+title = "R.N. Shaw"
+author = "R.N. Shaw"
+canonifyurls = true
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "R.N. Shaw"
+  subtitle = "Hunting Transcendence"
+  disableWebFonts = false
+  mainSections = [ "posts" ]
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "Author"
+    url  = "/profile"
+

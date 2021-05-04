@@ -1,0 +1,26 @@
+header p q {
+    color: #B9C1CA;
+    font-style: italic;
+}
+
+#nav ul li a {
+    color: #B9C1CA;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+.banner-credits a,
+.banner-credits {
+    color: #B9C1CA;
+}
+
+.banner-credits {
+    margin-top: 40px;
+    font-size: 0.9em;
+}
