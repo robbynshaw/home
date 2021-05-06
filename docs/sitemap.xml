@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rnshaw.com/essays/</loc>
+    <lastmod>2021-05-05T23:02:51-05:00</lastmod>
+  </url><url>
+    <loc>https://rnshaw.com/essays/polite-children-dont-exist/</loc>
+    <lastmod>2021-05-05T23:02:51-05:00</lastmod>
+  </url><url>
+    <loc>https://rnshaw.com/</loc>
+    <lastmod>2021-05-05T23:02:51-05:00</lastmod>
+  </url><url>
     <loc>https://rnshaw.com/profile/</loc>
     <lastmod>2021-05-03T19:40:24-05:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2021-05-03T19:40:14-05:00</lastmod>
   </url><url>
     <loc>https://rnshaw.com/tags/post-esoteric-philosophy/</loc>
-    <lastmod>2021-05-03T19:40:14-05:00</lastmod>
-  </url><url>
-    <loc>https://rnshaw.com/</loc>
     <lastmod>2021-05-03T19:40:14-05:00</lastmod>
   </url><url>
     <loc>https://rnshaw.com/tags/</loc>
@@ -26,13 +32,10 @@
     <loc>https://rnshaw.com/tags/philosophy/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rnshaw.com/posts/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rnshaw.com/tags/spirituality/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rnshaw.com/posts/the-tears-nearby/</loc>
+    <loc>https://rnshaw.com/essays/the-tears-nearby/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rnshaw.com/tags/tragedy/</loc>
