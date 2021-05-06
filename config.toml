@@ -12,7 +12,7 @@ pygmentscodefences  = true
   sitename = "R.N. Shaw"
   subtitle = "Hunting Transcendence"
   disableWebFonts = false
-  mainSections = [ "posts" ]
+  mainSections = [ "posts", "essays" ]
 
 [[menu.main]]
     name = "Home"

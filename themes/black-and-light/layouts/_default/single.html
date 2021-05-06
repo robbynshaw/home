@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <section id=content>
-  {{ if eq .Page.Type "posts" }}
+  {{ if eq .Page.Type "essays" }}
   <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
   {{ if .Params.date }}
     <div id=sub-header>
@@ -24,7 +24,7 @@
   </div>
   {{ end }}
 
-  {{ if eq .Page.Type "posts" }}
+  {{ if eq .Page.Type "essays" }}
   <div id=links>
     {{ if .PrevInSection }}
       <a href="{{.PrevInSection.Permalink}}">&laquo;&nbsp;{{.PrevInSection.Title}}</a>
