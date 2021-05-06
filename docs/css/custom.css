@@ -25,25 +25,36 @@ header {
     font-size: 0.9em;
 }
 
-form.response-form {
+div.response-form {
     margin: 60px 15px;
     padding: 25px;
     border: 1px solid #B9C1CA;
     color: #B9C1CA;
 }
 
-form.response-form input,
-form.response-form textarea {
+div.response-form input,
+div.response-form textarea {
     display: block;
     border: 1px solid #B9C1CA;
     margin-bottom: 15px;
 }
 
-form.response-form button {
+div.response-form button {
     padding: 5px 15px;
     font-weight: bold;
 }
 
-form.response-form p {
+div.response-form p {
     color: #B9C1CA;
+}
+
+.sharing {
+    border-bottom: 1px dotted #B9C1CA;
+    padding-bottom: 20px;
+}
+
+.sharing svg {
+    width: 24px;
+    height: 24px;
+    overflow: visible;
 }
