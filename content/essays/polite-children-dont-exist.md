@@ -220,8 +220,8 @@ reality.
 
 Whether or not this belief is *true* is another topic entirely; I point
 it out to show that this concept is traumatizing and show that
-it is easy to believe. If our systems and relationships must have
-boundaries, why not God's?
+it is easy to believe. "If our systems and relationships must have
+boundaries, why not God's?"
 
 This systematic thinking spreads casually across our thoughts and lives.
 It is somewhat easy to discipline our children; it is somewhat harder
