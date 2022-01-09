@@ -22,3 +22,10 @@ jobs:
 
       - name: Build
         run: hugo -d docs
+        
+      - name: Commit
+        run: |
+          git add docs\**\*
+          git commit -m "Automated build [noci]"
+          git push
+          
