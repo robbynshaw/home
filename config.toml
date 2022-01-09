@@ -23,4 +23,7 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Author"
     url  = "/profile"
+[[menu.main]]
+    name = "Consulting"
+    url  = "/consulting"
 
