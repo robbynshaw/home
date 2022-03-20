@@ -21,6 +21,7 @@
   <div class="banner-credits">{{ .RenderString .Params.bannerCredits }}</div>
   {{ end }}
 
+  {{ if eq .Page.Type "essays" }}
   <div class="response-form">
     <div class="sharing">
       <h3>Did this writing add value to your life?</h3>
@@ -86,6 +87,7 @@
       <button type="submit">Send</button>
     </form>
   </div>
+  {{ end }}
 
   {{ if eq .Page.Type "essays" }}
   <div id="links">
