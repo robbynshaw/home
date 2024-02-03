@@ -4,7 +4,8 @@ date: 2021-05-05T23:02:51-05:00
 draft: false
 banner: https://source.unsplash.com/G_UMhi7ugT4/1600x900
 bannerCredits: Photo by [Riley McCullough](https://unsplash.com/@rileyhphotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/school-child?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  
+tags:
+  - essay
 ---
 
 I am incapable of returning items to a store. This problem is not entirely
@@ -19,7 +20,7 @@ The cause of this phobia has plagued and evaded me for a very long time.
 I do not consider myself overly docile, submissive, nor completely
 socially inept. In most social settings, I behave myself quite
 well. I believe though that I have now found the root of this ailment,
-and it is this: *Polite children don't exist.*
+and it is this: _Polite children don't exist._
 
 Before now, I had at least discovered the mechanism of my phobia, but
 not the cause. When analyzing similar situations that caused me to
@@ -52,7 +53,7 @@ teach me this lesson, but I appear to have learned it nevertheless. In
 truth, I learned that people, in general, are not meant to be seen or heard
 unless that seeing or hearing is a positive moment in some other person's
 life. What I learned, because it is exactly what our society teaches, was
-that polite children, polite adults even, do not exist. To be perfectly 
+that polite children, polite adults even, do not exist. To be perfectly
 polite, one should be invisible.
 
 As with many parts of life, I probably took this idea a little too far
@@ -76,7 +77,7 @@ legal ways because the society agrees that this is just.
 
 With these thoughts in the back of my mind, hearing that I had a "right
 to exist" was almost laughable to me at first. What could such an idea
-possibly mean? Is this *right* not simply some wild illusion promoted
+possibly mean? Is this _right_ not simply some wild illusion promoted
 by feel-good psychologists to buffer an ever-failing cultural
 self-esteem? Yet, with all this cynicism bathing my mind, I still could
 not help but feel my spine straightening a little at the thought. What
@@ -84,7 +85,7 @@ if I really did have a right to exist?
 
 Rights are, as I said, interesting phenomena. One finds it hard to say
 the second paragraph of the Declaration of Independence without feeling
-a certain *gusto*.
+a certain _gusto_.
 
 > We hold these truths to be self-evident, that all men are created
 > equal, that they are endowed by their Creator with certain, inalienable
@@ -101,7 +102,7 @@ I can feel the 'right to exist' when I imagine myself walking up to a
 return counter--if I hold that mantra steady inside myself. I can see
 myself grounding with the very phrase, "I have a right to exist"--it's
 deeper than just a superficial phrase. The phrase has a truth that speaks
-to my Being-in-the-world. The phrase *means* something very real to
+to my Being-in-the-world. The phrase _means_ something very real to
 me--something that I never before fully grasped.
 
 If I say, "I have a right to exist," I am saying something about the
@@ -109,15 +110,15 @@ nature of my existence in general, but to understand that, we need to
 think about the experience of existence in general. My existence is and
 was given to me. I found it, but as far as I know, I did not create it;
 my existence happened to me and continuously happens to me, whether I
-directly will it or not. As such, I do not by default *trust* my
+directly will it or not. As such, I do not by default _trust_ my
 existence. In fact, my existence may feel no more valid to me than
 another person's existence. To some, their existence may feel less valid
 than that of those around them. We are not borne into the world knowing
 that we matter or even that we are real--these are determinations that
 are hard-won and often constantly at stake.
 
-To say that I have a "right to exist" is to claim that *given existence*
-as real and valid. That *given existence* does not stand alone either--we
+To say that I have a "right to exist" is to claim that _given existence_
+as real and valid. That _given existence_ does not stand alone either--we
 add to it, manipulate it, grow it moment by moment. My existence is my
 story; I live in and through this story; it is I, and I am it. To claim
 that my existence is real and valid is to claim that my story is as real
@@ -139,7 +140,7 @@ waiting underneath. I ask you to feel it; to listen to it; to search it
 out and witness it. You have a right to exist. Your story is valid and
 real.
 
-***
+---
 
 If saying that polite children don't exist is a bit of a stretch, a
 variation of the phrase is most certainly true: impolite children
@@ -191,7 +192,7 @@ be perfectly honest and admit that I believe hell to be very nearly
 indefensible biblically; its centrality in the protestant church
 perplexes me greatly, but that is a story for another time. My primary
 concern here is with the experience that the idea of hell creates--that is
-to say, the *experiential truth* of hell.
+to say, the _experiential truth_ of hell.
 
 The church in which I grew up espoused the idea that Christ and God loved
 me unconditionally. However, the same church also promoted the idea that
@@ -200,7 +201,7 @@ Throughout history, there have been many interpretations of what this
 damnation might mean. Generally, the consensus that I learned was that
 hell is primarily separation from God--some even go so far as to say
 separation from the love of God. We should note here that in a system in
-which God is the originator of life, is in some sense *existence* itself,
+which God is the originator of life, is in some sense _existence_ itself,
 being separated totally from God is utterly unfathomable--we simply have
 no basis from which we could form an experience. Being separated from
 God, therefore, is tantamount to no longer existing in any meaningful
@@ -218,7 +219,7 @@ experience that the concept of hell creates, and as such, is the
 experience that many of us teach our children as a basis for their
 reality.
 
-Whether or not this belief is *true* is another topic entirely; I point
+Whether or not this belief is _true_ is another topic entirely; I point
 it out to show that this concept is traumatizing and show that
 it is easy to believe. "If our systems and relationships must have
 boundaries, why not God's?"
@@ -246,4 +247,3 @@ Even if the system justifies the means, it is at least also a paramount
 failure of the imagination to believe that our neighbor's story is not
 real and valid. But how could we not feel so if we are unsure for
 ourselves if our own story has value?
-

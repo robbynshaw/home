@@ -1,12 +1,10 @@
 ---
-title: "The Coroner I Met at the Bar"
+title: The Coroner I Met At The Bar
 date: 2013-07-01
 draft: false
 tags:
   - essay
   - esoteric
-banner: https://source.unsplash.com/saxby7Bioxc/1600x900
-bannerCredits: Photo by [Alex Night](https://unsplash.com/@agk42?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bar-smoke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ---
 
 When they banned smoking from bars here in . . . well, everywhere,
@@ -20,7 +18,7 @@ crumbling into a dull, dried splatter of blood.
 
 I'm talking with these crisp, blue, little eyes--well, speaking
 anyway, or she is--I'm not sure because those crisp, blue, little
-eyes keep dancing around mine, and they're so clear and sharp and wet
+eyes keep dancing around mine and they're so clear and sharp and wet
 and round that I want to snatch them out of their strange, little
 dance and pop them and delight as they stain my hands blue. They're
 too close. They're so close, but they don't see me--no--they are
@@ -36,7 +34,7 @@ in the mystery of poetic utterance, such an art may find itself
 erected into an establishment of culture--a pool of life for a
 people who thirst.
 
-A little while earlier, my friend and I were sitting in a booth,
+A little while earlier my friend and I were sitting in a booth,
 alone, slurping a truth serum that was working, so I listened. I,
 the Pied Piper, lulling out his little demons, but there they
 stood--naked in front of me and staring--lost, confused, with no
