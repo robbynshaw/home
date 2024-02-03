@@ -13,9 +13,19 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "string" }
-      - { label: "Banner URI", name: "banner", widget: "image" }
-      - { label: "Banner Credits", name: "bannerCredits", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["essay"] }
+      - {
+          label: "Banner URI",
+          name: "banner",
+          widget: "image",
+          required: false,
+        }
+      - {
+          label: "Banner Credits",
+          name: "bannerCredits",
+          widget: "string",
+          required: false,
+        }
       - { label: "Is Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages" # Used in routes, e.g., /admin/collections/essays
@@ -27,8 +37,17 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "string" }
-      - { label: "Banner URI", name: "banner", widget: "image" }
-      - { label: "Banner Credits", name: "bannerCredits", widget: "string" }
+      - {
+          label: "Banner URI",
+          name: "banner",
+          widget: "image",
+          required: false,
+        }
+      - {
+          label: "Banner Credits",
+          name: "bannerCredits",
+          widget: "string",
+          required: false,
+        }
       - { label: "Is Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Body", name: "body", widget: "markdown" }
