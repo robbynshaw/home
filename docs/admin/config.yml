@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "static/img/content"
+public_folder: "/img/content"
+collections:
+  - name: "essays" # Used in routes, e.g., /admin/collections/essays
+    label: "Essays" # Used in the UI
+    folder: "content/essays" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Banner URI", name: "banner", widget: "image" }
+      - { label: "Banner Credits", name: "bannerCredits", widget: "string" }
+      - { label: "Is Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages" # Used in routes, e.g., /admin/collections/essays
+    label: "Pages" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Banner URI", name: "banner", widget: "image" }
+      - { label: "Banner Credits", name: "bannerCredits", widget: "string" }
+      - { label: "Is Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Body", name: "body", widget: "markdown" }
