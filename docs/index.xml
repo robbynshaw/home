@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 05 May 2021 23:02:51 -0500</lastBuildDate><atom:link href="https://rnshaw.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>R.N. Shaw Consulting</title>
+      <link>https://rnshaw.com/consulting/</link>
+      <pubDate>Sat, 03 Feb 2024 14:24:36 +0000</pubDate>
+      
+      <guid>https://rnshaw.com/consulting/</guid>
+      <description>R.N. Shaw Consulting Software Engineering Consulting Services Languages  C# Javascript / Typescript Go  </description>
+    </item>
+    
+    <item>
       <title>Polite Children Don&#39;t Exist</title>
       <link>https://rnshaw.com/essays/polite-children-dont-exist/</link>
       <pubDate>Wed, 05 May 2021 23:02:51 -0500</pubDate>
@@ -52,15 +61,6 @@ The days before I drove to the hospital, my mind was on the character of greatne
       
       <guid>https://rnshaw.com/essays/coroner-i-met-at-the-bar/</guid>
       <description>When they banned smoking from bars here in . . . well, everywhere, the coroner marked the time and date for the spiritual meaning of the beloved saloon. The bar no longer makes sense, and I sit here and fondle the thought that this simple, pointed break is crackling now through the structure, the soft release of a delicate tension, and this thread skeleton sags under the breath of the still air, that artful balance of human nature which is the bar is now crumbling into a dull, dried splatter of blood.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rnshaw.com/consulting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rnshaw.com/consulting/</guid>
-      <description>R.N. Shaw Consulting Software Engineering Consulting Services Languages  C# Javascript / Typescript Go  </description>
     </item>
     
   </channel>
